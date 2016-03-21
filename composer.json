@@ -1,0 +1,19 @@
+{
+    "name": "heroicpixels/valueformatter",
+    "description": "",
+    "authors": [
+        {
+            "name": "lrs",
+            "email": "lrs@lrs.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Heroicpixels\\ValueFormatter": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
